@@ -2,8 +2,6 @@ site_name: Gaia Protocol Docs
 
 theme:
     name: 'material'
-    font:
-      text: Noto Sans Korean
     palette:
 
     # Light mode
